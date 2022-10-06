@@ -18,11 +18,11 @@
     color:cornflowerblue;
 }
 .season-display.Summer i{
-    color:yellow;
+    color:#ffff00;
 }
 .Winter{
     background-color:skyblue;
 }
 .Summer{
-    background-color:rosybrown;
+    background-color:#bc8f8f;
 }

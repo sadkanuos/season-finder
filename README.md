@@ -1,3 +1,21 @@
+# Seasons app
+
+A season generator app made for Udemy course: Modern React with Redux. This app is made as a part of the explainer for React components, Lifecycle methods, and props.
+
+This is a webpage with a simplistic ui that takes two inputs, the location (latitude) and the date (month), and yields output as either summer or winter depending on the parameters.
+
+It is made using React.js and the assets are managed using Semantic-ui via cdn. It also employs geolocation api.
+
+## App Design
+<img src="App-design.png"/>
+The image above shows the design of the web page, basic parameters and the working criteria of the output. 
+
+The different web page design is a part of the output. A loading screen is also featured during the async calls.
+
+The two parameter that it considers is latitude and date. From latitude, it can be measured if the location is either in Northern Hemisphere or Southern Hemisphere. Fron date, month can be extracted and the display is rendered accordingly.
+
+It also provisions an error screen in case the user blocks the location access prompt.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
