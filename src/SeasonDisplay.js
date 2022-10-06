@@ -4,11 +4,11 @@ import React from 'react';
 // refactoring the repeated message and properties in seasonDisplay
 const seasonConfig = {
   Summer: {
-    message: 'We are the beach boys!!',
+    message: 'Today\'s the beach day!!',
     iconName: 'sun'
   },
   Winter: {
-    message: 'It\'s chilly today innit!',
+    message: 'It\'s chilly today isn\'t it!',
     iconName: 'snowflake'
   }
 };
