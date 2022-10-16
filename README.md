@@ -6,6 +6,10 @@ This is a webpage with a simplistic ui that takes two inputs, the location (lati
 
 It is made using React.js and the assets are managed using Semantic-ui via cdn. It also employs geolocation api.
 
+## Made using
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/semantic%20ui%20react-35BDB2?style=for-the-badge&logo=semanticuireact&logoColor=white"/>
+
 ## App Design
 <img src="App-design.png"/>
 The image above shows the design of the web page, basic parameters and the working criteria of the output. 
